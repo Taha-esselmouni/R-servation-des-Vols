@@ -117,7 +117,8 @@ Maintenant, les étapes suivantes comment connecter la base de données
 ```
 
 ```
-Étape 11: Ouvrez le Terminal et appuyez sur npm start
+Étape 11: Ouvrez le Terminal et appuyez sur npm start OU nodemon 
+
 
     ## Enjoy
 
