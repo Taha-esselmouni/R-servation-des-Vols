@@ -16,7 +16,6 @@ Réservation des Vols
       <a href="#Modalités-pédagogiques">Modalités pédagogiques</a>
     </li>
     <li><a href="#Livrables">Livrables</a></li>
-    <li><a href="#Capture-d'écran-de-l'application">Capture d'écran de l'application</a></li>
     <li><a href="#Référentiels">Référentiels</a></li>
     <li><a href="#technologies-utilisées">technologies utilisées</a></li>
     <li><a href="#license">License</a></li>
